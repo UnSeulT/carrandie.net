@@ -10,4 +10,4 @@ Mon site perso.
 
 ## License
 
-Voir [LICENSE]
+Voir [LICENSE](https://github.com/UnSeulT/carrandie.net/blob/master/LICENSE)
